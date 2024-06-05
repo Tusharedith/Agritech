@@ -6,7 +6,7 @@
     <h1>AgriTech Web Platform</h1>
 
    <h2>Overview</h2>
-    <p>This project is an Agriculture Web Platform designed to assist farmers and agricultural stakeholders with crucial information and predictions. The platform provides three main features:</p>
+    <p>This project is an AgriTech Web Platform designed to assist farmers and agricultural stakeholders with crucial information and predictions. The platform provides three main features:</p>
     <ul>
         <li><strong>Crop Prediction</strong>: Suggests the most suitable crops to plant based on environmental factors.</li>
         <li><strong>Crop Yield Prediction</strong>: Estimates the potential yield of crops to help in planning and resource management.</li>
@@ -35,10 +35,10 @@
 
    <h3>3. Disease Analysis</h3>
     <p>Analyzes images of crops to detect diseases. Provides treatment suggestions and preventive measures.</p>
-   
-<img src="https://github.com/Tusharedith/Agritech/blob/main/website/screen%20shot/Screenshot%202024-06-05%20232027.png" alt="logo"  width="300"  align="right">
-<img src="https://github.com/Tusharedith/Agritech/blob/main/website/screen%20shot/Screenshot%202024-06-05%20232111.png" alt="img2"  width="300"  align="centre" >
-<img src="https://github.com/Tusharedith/Agritech/blob/main/website/screen%20shot/Screenshot%202024-06-06%20002926.png" alt="Overview"  width="300"  align="left">
+
+<img src="https://github.com/Tusharedith/Agritech/blob/main/website/screen%20shot/Screenshot%202024-06-05%20232027.png" alt="logo"  width="300"  align="right" height="300">
+<img src="https://github.com/Tusharedith/Agritech/blob/main/website/screen%20shot/Screenshot%202024-06-05%20232111.png" alt="img2"  width="300"  align="centre" height="300">
+<img src="https://github.com/Tusharedith/Agritech/blob/main/website/screen%20shot/Screenshot%202024-06-06%20002926.png" alt="Overview"  width="300"  align="left" height="300"><br>
 
    <h2 id="installation">Installation</h2>
     <ol>
