@@ -64,7 +64,7 @@ cd agriculture-web-platform</code></pre>
         <li>Use the <strong>Crop Prediction</strong> feature by inputting environmental data.</li>
         <li>Use the <strong>Crop Yield Prediction</strong> feature by selecting a crop and inputting necessary parameters.</li>
         <li>Use the <strong>Disease Analysis</strong> feature by uploading an image of the crop.</li>
-        <li>Use the <strong>Fertilizer Recommdation></strong> feature by inputting environmental data.</li>
+        <li>Use the <strong>Fertilizer Recommdation</strong> feature by inputting environmental data.</li>
     </ol>
 
    <h2 id="technologies">Technologies</h2>
