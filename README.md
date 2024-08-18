@@ -11,6 +11,7 @@
         <li><strong>Crop Prediction</strong>: Suggests the most suitable crops to plant based on environmental factors.</li>
         <li><strong>Crop Yield Prediction</strong>: Estimates the potential yield of crops to help in planning and resource management.</li>
         <li><strong>Disease Analysis</strong>: Identifies crop diseases from images and suggests possible treatments.</li>
+        <li><strong>Fertilizer Recommendation</strong>: Recommend fertilizer based on factors.</li>
     </ul>
 <img src="https://github.com/Tusharedith/Agritech/blob/main/website/screen%20shot/Screenshot%202024-06-05%20231937.png" alt="Overview" >
    <h2>Table of Contents</h2>
@@ -35,6 +36,9 @@
 
    <h3>3. Disease Analysis</h3>
     <p>Analyzes images of crops to detect diseases. Provides treatment suggestions and preventive measures.</p>
+
+    <h3>4. Fertilizer Recommendation</h3>
+    <p> Recommend the fertilizer on the based on parameters.</p>
 
 <img src="https://github.com/Tusharedith/Agritech/blob/main/website/screen%20shot/Screenshot%202024-06-05%20232027.png" alt="logo"  width="300"  align="right" height="300">
 <img src="https://github.com/Tusharedith/Agritech/blob/main/website/screen%20shot/Screenshot%202024-06-05%20232111.png" alt="img2"  width="300"  align="centre" height="300">
@@ -61,6 +65,7 @@ cd agriculture-web-platform</code></pre>
         <li>Use the <strong>Crop Prediction</strong> feature by inputting environmental data.</li>
         <li>Use the <strong>Crop Yield Prediction</strong> feature by selecting a crop and inputting necessary parameters.</li>
         <li>Use the <strong>Disease Analysis</strong> feature by uploading an image of the crop.</li>
+        <li>Use the <strong>Fertilizer Recommdation></strong> feature by inputting environmental data.</li>
     </ol>
 
    <h2 id="technologies">Technologies</h2>
