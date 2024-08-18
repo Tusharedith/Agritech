@@ -36,8 +36,7 @@
 
    <h3>3. Disease Analysis</h3>
     <p>Analyzes images of crops to detect diseases. Provides treatment suggestions and preventive measures.</p>
-
-    <h3>4. Fertilizer Recommendation</h3>
+<h3>4. Fertilizer Recommendation</h3>
     <p> Recommend the fertilizer on the based on parameters.</p>
 
 <img src="https://github.com/Tusharedith/Agritech/blob/main/website/screen%20shot/Screenshot%202024-06-05%20232027.png" alt="logo"  width="300"  align="right" height="300">
