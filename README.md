@@ -36,6 +36,7 @@
 
    <h3>3. Disease Analysis</h3>
     <p>Analyzes images of crops to detect diseases. Provides treatment suggestions and preventive measures.</p>
+    
 <h3>4. Fertilizer Recommendation</h3>
     <p> Recommend the fertilizer on the based on parameters.</p>
 
@@ -70,9 +71,9 @@ cd agriculture-web-platform</code></pre>
    <h2 id="technologies">Technologies</h2>
     <ul>
         <li><strong>Frontend</strong>: HTML, CSS, JavaScript</li>
-        <li><strong>Backend</strong>: Flask / Django (or any framework you're using)</li>
-        <li><strong>Machine Learning</strong>: Scikit-learn, TensorFlow, Keras, etc.</li>
-        <li><strong>Database</strong>: MySQL, PostgreSQL, SQLite (or any database you're using)</li>
+        <li><strong>Backend</strong>: Flask / Django </li>
+        <li><strong>Machine Learning</strong>: Scikit-learn, TensorFlow, Keras</li>
+        <li><strong>Database</strong>: Mongodb </li>
     </ul>
 
    <h2 id="contributing">Contributing</h2>
